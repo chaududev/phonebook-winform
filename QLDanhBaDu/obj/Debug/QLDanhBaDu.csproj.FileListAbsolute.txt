@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\QLDanhBaDu.exe.config
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\QLDanhBaDu.exe
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\QLDanhBaDu.pdb
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.csproj.CopyComplete
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.exe
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.pdb
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.Form1.resources
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.ThemNhom.resources
+C:\Users\Admin\source\repos\QLDanhBaDu\QLDanhBaDu\obj\Debug\QLDanhBaDu.ThemLienLac.resources
