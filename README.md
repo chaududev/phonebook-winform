@@ -1,6 +1,4 @@
 # quanlydanhbaapp
-Châu Hoàng Bích Du - 19T1021032
-
 Giao diện chương trình
 ![1](https://user-images.githubusercontent.com/81465934/198687566-e62f58f2-e68f-404a-abaa-11a46e1f7f7f.JPG)
 Giao diện chương trình khi tìm kiếm từ
